@@ -32,3 +32,27 @@ h1{
 .mission{
     color: sandybrown;
 }
+#second-part{
+    display: flex;
+}
+.first-box{
+    background-color: skyblue;
+    border-radius: 5px;
+}
+.first-box img{
+    width: 40%;
+}
+.second-box{
+    background-color:slateblue ;
+    border-radius: 5px;
+}
+.second-box img{
+    width: 40%;
+}
+.third-box{
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.third-box img{
+    width: 40%;
+}
