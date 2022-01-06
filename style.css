@@ -99,3 +99,30 @@ section{
 #fourth-part img{
     width: 80%;
 }
+.fourth-link{
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: rgb(177, 122, 204);
+    padding: 5px 10px;
+}
+.last-part{
+    display: flex;
+}
+.last-part img{
+    width: 80%;
+}
+.last-link{
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: darkorchid;
+    padding: 5px 10px;
+}
+.frt{
+    color: rgb(68, 75, 4);
+}
+footer{
+    background-color: rgb(196, 150, 223);
+}
+.ending-footer{
+    font-family:'The Nautigal', cursive;
+}
